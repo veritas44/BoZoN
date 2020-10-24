@@ -1,10 +1,10 @@
-# BoZoN
-Official website 	: http://bozon.pw
-Roadmap page 		: http://roadmap.bozon.pw
+# Xdrive
+Demo website 	: https://drive.apkhr.xyz/Hosting
+Official website : https://apkhr.xyz
 
 
 ## Minimalist Drag & drop file sharing app
-( http://demo.bozon.pw/ )
+( https://drive.apkhr.xyz/Hosting )
 - Install: just unzip on your server; no database/ php 5.2. Then go to index.php?p=admin page and create your login/pass. 
 - Config: just change config.php file. 
 - Upload a file: go to index.php?p=admin page, connect and then drop files in the dashed area... that's it !
@@ -35,11 +35,9 @@ and
 - marked.js : (https://github.com/chjj/marked)
 - vanillajs : (my own lib, very tiny)
 
-## Support & donate
-You can support us using paypal or bitcoin with this page: [Donate](http://bozon.pw/static1/donate) [Contribuir](http://bozon.pw/static5/contribuir) [Faire un don](http://bozon.pw/static8/faire-un-don)
 
 ## Licence
-All Bozon code and all the personal libs used in it are distributed under AGPL: feel free to fork, adapt, distribute, comment etc but please, keep your fork free too ;-)
+All Xdrive code and all the personal libs used in it are distributed under AGPL: feel free to fork, adapt, distribute, comment etc but please, keep your fork free too ;-)
 
 
 ## FAQ
